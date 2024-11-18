@@ -1,0 +1,89 @@
+{
+	"name": "Marcelo Hadad",
+	"photo": "https://avatars.githubusercontent.com/u/56046327",
+	"job": "Desenvolvedor de Software | Full Stack",
+	"location": "São Paulo - SP",
+	"phone": "(11) 96076-2089",
+	"email": "marcelo.hadad@outlook.com",
+	"skills": {
+		"hardSkills": [
+			{
+				"name": "C++",
+				"logo": "assets/img/hardSkills/cpp.svg"
+			},
+			{
+				"name": "C#",
+				"logo": "assets/img/hardSkills/csharp.svg"
+			},
+			{
+				"name": ".NET",
+				"logo": "assets/img/hardSkills/dotnet.svg"
+			},
+			{
+				"name": "Node.js",
+				"logo": "assets/img/hardSkills/nodejs.svg"
+			},
+			{
+				"name": "TypeScript",
+				"logo": "assets/img/hardSkills/typescript.svg"
+			},
+			{
+				"name": "Angular",
+				"logo": "assets/img/hardSkills/angular.svg"
+			},
+			{
+				"name": "MongoDB",
+				"logo": "assets/img/hardSkills/mongodb.svg"
+			},
+			{
+				"name": "SQL Server",
+				"logo": "assets/img/hardSkills/mssql.svg"
+			},
+			{
+				"name": "Azure Cloud",
+				"logo": "assets/img/hardSkills/azure.svg"
+			}
+		],
+		"softSkills": [
+			"Proatividade",
+			"Comunicação clara",
+			"Foco em resultados",
+			"Espírito colaborativo"
+		]
+	},
+	"languages": ["Português Nativo", "Inglês Avançado"],
+	"portfolio": [
+		{
+			"name": "Princípios e Práticas de Programação com C++",
+			"url": "https://github.com/MarceloHadad/PrincipiosEPraticasDeProgramacaoComCpp",
+			"github": true
+		},
+		{
+			"name": "Hadad's Pokédex",
+			"url": "https://github.com/MarceloHadad/HadadsPokedex",
+			"github": true
+		},
+		{
+			"name": "Projeto BuzzFeed",
+			"url": "https://github.com/MarceloHadad/projeto-buzzfeed",
+			"github": true
+		}
+	],
+	"professionalExperience": [
+		{
+			"name": "Desenvolvedor @ FastProBR",
+			"period": "03/2023 - até o momento",
+			"description": "Na minha função atual, estou envolvido com sistemas no campo de pagamentos e mobilidade. Estes sistemas operam com protocolos fundamentais como EMV, TLV e são integrados com gateways de pagamento. Minhas principais responsabilidades incluem:<br/><br/>• Conceber e conduzir projetos conforme as demandas e expectativas dos stakeholders.<br/>• Desenvolver e implementar melhorias contínuas e novas funcionalidades.<br/>• Identificar e resolver bugs."
+		},
+		{
+			"name": "Scrum Master @ FastProBR",
+			"period": "11/2023 - 12/2023",
+			"description": "No papel de Scrum Master, desempenhei um papel essencial na gestão de projetos, promovendo a comunicação eficaz e a colaboração entre todas as partes envolvidas. Minhas responsabilidades incluíam:<br/><br/>• Facilitar a comunicação e a cooperação entre membros da equipe, garantindo uma colaboração harmoniosa.<br/>• Resolver conflitos e manter o projeto alinhado com os valores, regras e práticas do framework Scrum.<br/>• Assegurar a aderência à metodologia e garantir a entrega bem-sucedida do produto.<br/>• Conduzir cerimônias Scrum, como as reuniões diárias, de planejamento, retrospectiva e revisão.<br/>• Realizar reuniões regulares com o Product Owner/Product Manager para gerenciar o Product Backlog."
+		},
+		{
+			"name": "Desenvolvedor @ Nerds on Duty",
+			"period": "08/2023 - até o momento",
+			"description": "Minha principal área de atuação está na manutenção de sistemas abrangendo webapi, webapp e aplicativo mobile, com foco específico na área de plataformas de aulas de ginástica. Minhas responsabilidades incluem:<br/><br/>• Desenvolvimento contínuo e aprimoramento de sistemas de webapi, webapp e mobile dedicados à plataforma de aulas de ginástica.<br/>• Identificação e correção proativa de bugs para garantir a estabilidade e a confiabilidade dos sistemas.<br/>• Implementação de melhorias e novas features para enriquecer a experiência dos usuários."
+		}
+	]
+}
