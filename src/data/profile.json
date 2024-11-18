@@ -9,39 +9,39 @@
 		"hardSkills": [
 			{
 				"name": "C++",
-				"logo": "assets/img/hardSkills/cpp.svg"
+				"logo": "src/assets/img/hardSkills/cpp.svg"
 			},
 			{
 				"name": "C#",
-				"logo": "assets/img/hardSkills/csharp.svg"
+				"logo": "src/assets/img/hardSkills/csharp.svg"
 			},
 			{
 				"name": ".NET",
-				"logo": "assets/img/hardSkills/dotnet.svg"
+				"logo": "src/assets/img/hardSkills/dotnet.svg"
 			},
 			{
 				"name": "Node.js",
-				"logo": "assets/img/hardSkills/nodejs.svg"
+				"logo": "src/assets/img/hardSkills/nodejs.svg"
 			},
 			{
 				"name": "TypeScript",
-				"logo": "assets/img/hardSkills/typescript.svg"
+				"logo": "src/assets/img/hardSkills/typescript.svg"
 			},
 			{
 				"name": "Angular",
-				"logo": "assets/img/hardSkills/angular.svg"
+				"logo": "src/assets/img/hardSkills/angular.svg"
 			},
 			{
 				"name": "MongoDB",
-				"logo": "assets/img/hardSkills/mongodb.svg"
+				"logo": "src/assets/img/hardSkills/mongodb.svg"
 			},
 			{
 				"name": "SQL Server",
-				"logo": "assets/img/hardSkills/mssql.svg"
+				"logo": "src/assets/img/hardSkills/mssql.svg"
 			},
 			{
 				"name": "Azure Cloud",
-				"logo": "assets/img/hardSkills/azure.svg"
+				"logo": "src/assets/img/hardSkills/azure.svg"
 			}
 		],
 		"softSkills": [
